@@ -33,12 +33,13 @@ public class ChandraVamsi {
     };
 
     String[] currentlyLearning = {
+        "Microservices Architecture",
         "Advanced System Design",
-        "Docker & Container Orchestration",
-        "Microservices Architecture"
+        "Docker & Container Orchestration"
     };
 
-    String funFact = "I know exactly how it feels to fix one bug and introduce new ones. (It’s a feature, not a bug!)";
+    String funFact = "I know exactly how it feels to fix one bug and introduce
+new ones. (It’s a feature, not a bug!)";
 }
 ```
 
@@ -80,10 +81,10 @@ public class ChandraVamsi {
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<!-- <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandravamsi-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandravamsi-m&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
+</div> -->
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=chandravamsi-m&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
@@ -101,16 +102,6 @@ public class ChandraVamsi {
 | 🐳 **Deployment** | Docker, Render, Firebase Hosting, Git-based CI/CD |
 
 ---
-
-## 📈 Current Focus
-
-```
-🔸 Backend Engineering Depth          ████████████░░░░  75%
-🔸 System Design Fundamentals         ███████░░░░░░░░░  45%
-🔸 Docker & Container Orchestration   ████████░░░░░░░░  50%
-🔸 Microservices Architecture         ██████░░░░░░░░░░  40%
-🔸 Production-Ready App Delivery      ██████████████░░  85%
-```
 
 ---
 
