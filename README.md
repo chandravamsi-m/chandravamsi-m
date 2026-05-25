@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Chandra Vamsi 👋
 
-<!--
-**chandravamsi-m/chandravamsi-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | Spring Boot | React.js
 
-Here are some ideas to get you started:
+Backend-oriented Full Stack Developer experienced in building production-oriented web applications using Spring Boot, React.js, PostgreSQL, and modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building:
+- Secure REST APIs
+- Workflow-driven platforms
+- Authentication & authorization systems
+- Backend business logic
+- Full stack product applications
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- JWT Authentication
+- OAuth2
+
+### Frontend
+- React.js
+- Tailwind CSS
+- JavaScript
+- TypeScript
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Firebase Firestore
+
+### Tools & Platforms
+- Docker
+- Git
+- GitHub
+- Postman
+- Maven
+- Render
+- Firebase Hosting
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://chandravamsi-m.web.app/
+- LinkedIn: https://www.linkedin.com/in/chandravamsim/
+- Email: chandravamsi.malluru@gmail.com
+
+---
+
+## 📈 Current Focus
+
+Currently improving:
+- Backend engineering depth
+- System design fundamentals
+- Scalable application architecture
+- Docker & deployment workflows
+- Production-ready backend systems
