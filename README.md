@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Chandra%20Vamsi%20Malluru&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Chandra%20Vamsi%20Malluru&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a8b2d8" />
 
 </div>
 
@@ -23,7 +23,7 @@ public class ChandraVamsi {
 
     String name     = "Chandra Vamsi Malluru";
     String role     = "Java Full Stack Developer";
-    String location = "India 🇮🇳";
+    String location = "Hyderabad, India";
 
     String[] focus = {
         "Backend Engineering & System Design",
@@ -38,8 +38,7 @@ public class ChandraVamsi {
         "Docker & Container Orchestration"
     };
 
-    String funFact = "I know exactly how it feels to fix one bug and introduce
-new ones. (It’s a feature, not a bug!)";
+    String funFact = "I know exactly how it feels to fix one bug and introduce new ones. (It’s a feature, not a bug!)";
 }
 ```
 
@@ -81,10 +80,6 @@ new ones. (It’s a feature, not a bug!)";
 ---
 
 ## 📊 GitHub Stats
-<!-- <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandravamsi-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandravamsi-m&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div> -->
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=chandravamsi-m&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
